@@ -1,0 +1,41 @@
+.row {
+    display: flex;
+  }
+  
+  .column-L {
+    flex: 30%;
+  }
+  .column-R {
+    flex: 65%;
+  }
+
+  .column{
+      flex: 33%;
+      margin: 10px;
+  }
+  
+  body{
+      padding-left: 10%;
+      padding-right: 10%;
+  }
+  h1{
+    font-family: 'Lora', serif;
+    font-size: 40px;;
+  }
+  h2{
+    font-family: 'Lora', serif;
+    color: gray;
+  }
+  h3{
+    font-family: 'Montserrat', sans-serif;
+  }
+  h4{
+    font-family: 'Lora', serif;
+  }
+  p{
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  #desc{
+      font-size: 20px;
+  }
